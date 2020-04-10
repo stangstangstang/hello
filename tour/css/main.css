@@ -1,0 +1,144 @@
+    html {
+        background: #f5f5f5;
+    }
+
+    body {
+        background-color: white;
+        width: 100%;
+        max-width: 640px;
+        margin: 0 auto;
+    }
+
+    .qui-header {
+        background-color: #2bab79;
+        height: 60px;
+    }
+
+
+    h1 {
+        color: white;
+        text-align: center;
+        font-size: 35px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .plcRouteList {
+        /* border: 1px solid red; */
+        margin-left: 5px;
+        /* float: right; */
+    }
+
+    .pic {
+        border-radius: 50%;
+    }
+
+    .bottom {
+        /* border: 1px solid red; */
+        position: absolute;
+        top: 385px;
+        left: 380px;
+    }
+
+    .face {
+        float: left;
+        border: 1px solid white;
+        width: 39px;
+        height: 39px;
+        border-radius: 50%;
+    }
+
+    .title {
+        position: absolute;
+        /* border: 1px solid red; */
+        color: white;
+        white-space: nowrap;
+        font-size: 18px;
+        font-weight: bolder;
+        line-height: 40px;
+        margin-left: 70px;
+    }
+
+    .day {
+        position: absolute;
+        top: 100px;
+        right: 390px;
+        /* border: 1px solid red; */
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        text-align: center;
+        background-color: #2bab79;
+        line-height: 35px;
+        color: white;
+    }
+
+    .secondday{
+        position: absolute;
+        top: 500px;
+        right: 390px;
+        /* border: 1px solid red; */
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        text-align: center;
+        background-color: #2bab79;
+        line-height: 35px;
+        color: white;
+ 
+    }
+
+    em {
+        font-style: normal;
+        font-weight: bolder;
+    }
+
+    span{
+        margin-left: 30px;
+    }
+
+    .qui-aside{
+        position: absolute;
+        top: 29px;
+        left: 145px;
+        /* border:1px solid red; */
+        width: 200px;
+        height: 880px;
+        background-color: #2d3741;
+    }
+
+    ul{
+        list-style: none;
+    }
+
+    .nav-aside{
+        /* border:1px solid red; */
+        padding: 80px 10px;
+    }
+
+    .nav-aside a{
+        font-size: 16px;
+        color: #ced1d5;
+        line-height: 44px;
+        padding-left: 15px;
+        text-decoration: none;
+        display: block;
+    }
+
+    .nav-aside a:hover{
+        color:white;
+        background-color: #2bab79;
+    }
+
+    .qui-footer{
+        border: 1px solid red;
+        text-align: center;
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+    .qui-footer a{
+        text-decoration: none;
+        color: #444;
+        margin-left: 60px;
+    }
